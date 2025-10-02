@@ -1,0 +1,5 @@
+matplotlib
+astropy
+astroquery
+lsdb
+s3fs
